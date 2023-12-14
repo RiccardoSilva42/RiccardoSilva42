@@ -1,6 +1,6 @@
 ### Hi! I'm Riccardo  👋
 
- I'm an enthusiastic programmer interested in:
+ I'm an enthusiast programmer interested in:
 - Custom themes for open source software
 - Digital minimalism and retro tech
 - Retro aesthetics in general
