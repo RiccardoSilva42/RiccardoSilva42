@@ -1,15 +1,15 @@
 ### Hi! I'm Riccardo  👋
 
-About me
-
 ##
+### About me
+
 I am a enthusiast programmer interested in:
 
-- Web and game developing
-- Digital minimalism
-- Custom themes for open source software
-- ASCII art and animation
-- Cyber noir and futurism
+- Web and game developing :man_technologist:
+- Digital minimalism :pager:
+- Custom themes for open source software 🏙️
+- ASCII art and animation :man_artist:
+- Cyber noir and futurism :8ball:
 
 ![Riccardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiccardoSilva42&show_icons=true&theme=dark&include_all_comits=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiccardoSilva42&layout=pie)](https://github.com/anuraghazra/github-readme-stats) 
