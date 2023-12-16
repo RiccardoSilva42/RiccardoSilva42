@@ -12,5 +12,14 @@
 <img align="center" height="50" widht="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 </div>   
 
+### About me
+
 ##
+I am a enthusiast front-end programmer interested in:
+
+- Web dev
+- Digital minimalism
+- Custom themes for open source software
+- ASCII art and animation
+- Cyber noir and futurism
 
