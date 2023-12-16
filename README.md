@@ -15,9 +15,9 @@
 ### About me
 
 ##
-I am a enthusiast front-end programmer interested in:
+I am a enthusiast programmer interested in:
 
-- Web dev
+- Web and game developing
 - Digital minimalism
 - Custom themes for open source software
 - ASCII art and animation
