@@ -1,5 +1,7 @@
 ### Hi! I'm Riccardo  👋
 
+<img src="https://cdn.discordapp.com/attachments/766063443068321832/1185389473752678400/IMG_6C0791D334EA_1_1.jpeg?ex=658f6efa&is=657cf9fa&hm=b09a7e47dbb7bf03d81a6aa8bec9cd181189e4f50e40ca633ad1d14503771274&">
+
 ##
 
 ![Riccardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiccardoSilva42&show_icons=true&theme=dark&include_all_comits=true&count_private=true)
