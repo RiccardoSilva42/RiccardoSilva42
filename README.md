@@ -1,4 +1,4 @@
-### Hi! I'm Riccardo  👋
+### Hi!! I'm Riccardo  👋
 
 ##
 ### About me
